@@ -56,7 +56,6 @@ I am currently working on **TestifyHub** - A testimonial management platform.
 
 # 🐍 Contribution Graph:
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/riteshy1802/riteshy1802/output/github-contribution-grid-snake.svg" />
 
 </div>

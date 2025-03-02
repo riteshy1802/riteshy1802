@@ -52,6 +52,5 @@ I am currently working on **TestifyHub** - A testimonial management platform.
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ritesh182006) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshrajyadav2006@gmail.com)
 
----
 
 </div>

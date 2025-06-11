@@ -20,8 +20,11 @@
 ---
 
 # 💫 About Me:
-I am currently working on **TestifyHub** - A testimonial management platform.
-
+👨‍💻 Full Stack Developer building full-fledged web solutions  
+🌐 Experienced with React, Node.js, MongoDB & Firebase  
+📱 Currently diving into mobile app development  
+🚀 Passionate about clean code & continuous learning  
+🛠️ Crafting ideas into usable, real-world products
 ---
 
 # 📊 GitHub Stats:

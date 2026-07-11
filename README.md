@@ -145,6 +145,8 @@ whoami:
 <tr>
 <td width="100%">
 
+<p>&nbsp;</p>
+
 <h3 align="left">
   <img src="https://github.com/riteshy1802/riteshy1802/blob/main/filepillar.png?raw=true" width="28" height="28" align="top" />
   Full Stack Developer Intern — Filepillar
@@ -154,10 +156,14 @@ whoami:
 - Helped build the LLM execution layer and integrated 40+ MCP tools for autonomous tax-workflow automation on **Svelte, Django, PostgreSQL, GCP**.
 - Cut AI inference costs by 95% through prompt caching, intent classification, and tool-level caching.
 
+<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr>
 <td width="100%">
+
+<p>&nbsp;</p>
 
 <h3 align="left">
   <img src="https://github.com/riteshy1802/riteshy1802/blob/main/lonelybag.jpeg?raw=true" width="28" height="28" align="top" />
@@ -166,6 +172,9 @@ whoami:
 <p><em>Mumbai, India | Feb 2025 – Jun 2025</em></p>
 
 - Built a restaurant management dashboard in **Next.js** with secure auth flows, session management, and a reusable component library integrated with REST APIs.
+
+<p>&nbsp;</p>
+
 </td>
 </tr>
 </table>
@@ -176,15 +185,21 @@ whoami:
 <tr>
 <td width="100%" valign="top">
 
+<p>&nbsp;</p>
+
 ### ⚙️ Perpetua - Autonomous SWE Platform
 `LangGraph` `Temporal` `Qdrant`
 
 Giving everything I have to this one. More soon.
 
+<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr>
 <td width="100%" valign="top">
+
+<p>&nbsp;</p>
 
 ### Void Drop - Secure Ephemeral File Sharing Platform
 `Node.js` `AWS S3` `CloudFront` `Upstash Redis` `Grafana`
@@ -197,10 +212,14 @@ A file sharing platform built around security and impermanence — files self-de
 - Progressive Web App — installable on any device
 - Upstash Redis-based rate limiting + Grafana/Loki/CloudWatch observability
 
+<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr>
 <td width="100%" valign="top">
+
+<p>&nbsp;</p>
 
 ### 📋 Kanflow - Collaborative Task Management
 `Next.js` `Django` `PostgreSQL` `RabbitMQ`
@@ -210,10 +229,14 @@ A collaborative workspace platform with **JWT authentication**, role-based acces
 - Django REST APIs + PostgreSQL
 - Reusable Next.js frontend architecture for secure multi-user collaboration
 
+<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr>
 <td width="100%" valign="top">
+
+<p>&nbsp;</p>
 
 ### 🔍 PageInsight - Conversational Web Intelligence
 `Node.js` `Express` `BullMQ` `Puppeteer` `pgvector`
@@ -222,6 +245,8 @@ A **RAG platform** that scrapes webpages, generates vector embeddings, and perfo
 
 - Asynchronous scraping pipelines: Puppeteer + BullMQ + Redis
 - Recursive chunking + pgvector similarity search with resilient fallback extraction
+
+<p>&nbsp;</p>
 
 </td>
 </tr>

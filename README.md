@@ -153,8 +153,8 @@ whoami:
 </h3>
 <p><em>Malaysia · Remote | Jul 2025 – Present</em></p>
 
-- Helped build the LLM execution layer and integrated 40+ MCP tools for autonomous tax-workflow automation on **Svelte, Django, PostgreSQL, GCP**.
-- Cut AI inference costs by 95% through prompt caching, intent classification, and tool-level caching.
+- Helped build the LLM execution layer and integrated 40+ MCP tools for autonomous tax-workflow automation on **Svelte, Django, PostgreSQL**.
+- Significantly reduced AI inference costs through a combination of architectural and optimization decisions at the execution layer.
 
 <p>&nbsp;</p>
 

@@ -1,20 +1,276 @@
-# 💫 About Me:
-🔭 I’m currently working with Filepillar<br>🌱 I’m currently exploring Agentic AI<br>💬 Ask me about Full stack Development<br>⚡ I commute to Southeast Asia every day from my desk; I haven't figured out teleportation yet, but I'm getting pretty close with my internet connection.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D0000,50:E8341A,100:F5A623&height=260&section=header&text=Ritesh%20Yadav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritesh-yadav-2a5a03289/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshy1802@gmail.com) 
+<a href="https://linkedin.com/in/ritesh-yadav-2a5a03289" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:riteshy1802@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://hackerone.com/riteshy1802" target="_blank">
+  <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+</a>
 
-# 💻 Tech Stack:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+things+at+the+intersection+of+AI+%26+software;Designing+multi-agent+LLM+systems+%E2%80%94+LangGraph+%2B+MCP;Currently+exploring+%3A+Agentic+AI+%26+Autonomous+SWE" alt="Typing SVG" />
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge\&logo=django\&logoColor=white\&color=ff1709\&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io\&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge\&logo=react%20query\&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge\&logo=svelte\&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge\&logo=svelte\&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge\&logo=mui\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge\&logo=playwright\&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge\&logo=Puppeteer\&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=riteshy1802&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/riteshy1802?label=Followers&style=for-the-badge&color=2c5364" />
 
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riteshy1802&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=riteshy1802&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshy1802&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=riteshy1802&icon=0&color=0)](https://visitcount.itsvg.in) -->
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+whoami:
+  name: "Ritesh Yadav"
+  location: "Mumbai, India"
+  role: "Full Stack Developer Intern @ Filepillar (Malaysia)"
+  education: "B.E. Computer Engineering, Thadomal Shahani Engineering College"
+  currently_building: "things I can't fully talk about yet"
+  exploring: "Agentic AI, Model Context Protocol, Retrieval-Augmented Generation"
+```
+
+- 🔭 Building across the full stack at **Filepillar** — and quietly working on something bigger on the side
+- 🛡️ HackerOne-recognized security researcher | Ask me about **Agentic AI, LangGraph, MCP, and Full Stack**
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+
+**Infrastructure & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**AI & LLM**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-6E56CF?style=for-the-badge&logo=protocols&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=riteshy1802&theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshy1802&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true"/>
+</div>
+</div>
+
+<br>
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<!-- This block is generated by the yoshi389111/github-profile-3d-contrib workflow -->
+<img src="https://raw.githubusercontent.com/riteshy1802/riteshy1802/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- This block is generated by the Platane/snk workflow -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riteshy1802/riteshy1802/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riteshy1802/riteshy1802/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/riteshy1802/riteshy1802/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
+
+</div>
+
+<br>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+<h3 align="left">
+  <img src="https://github.com/riteshy1802/riteshy1802/blob/main/filepillar.png?raw=true" width="28" height="28" align="top" />
+  Full Stack Developer Intern — Filepillar
+</h3>
+<p><em>Malaysia · Remote | Jul 2025 – Present</em></p>
+
+- Helped build the LLM execution layer and integrated 40+ MCP tools for autonomous tax-workflow automation on **Svelte, Django, PostgreSQL, GCP**.
+- Cut AI inference costs by 95% through prompt caching, intent classification, and tool-level caching.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+<h3 align="left">
+  <img src="https://github.com/riteshy1802/riteshy1802/blob/main/lonelybag.jpeg?raw=true" width="28" height="28" align="top" />
+  Web Developer Intern — EcoEats (The Lonely Bag)
+</h3>
+<p><em>Mumbai, India | Feb 2025 – Jun 2025</em></p>
+
+- Built a restaurant management dashboard in **Next.js** with secure auth flows, session management, and a reusable component library integrated with REST APIs.
+</td>
+</tr>
+</table>
+<br>
+
+## 🎯 Featured Projects
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### ⚙️ Perpetua - Autonomous SWE Platform
+`LangGraph` `Temporal` `Qdrant`
+
+Giving everything I have to this one. More soon.
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### Void Drop - Secure Ephemeral File Sharing Platform
+`Node.js` `AWS S3` `CloudFront` `Upstash Redis` `Grafana`
+
+A file sharing platform built around security and impermanence — files self-destruct, nothing lingers.
+
+- AES-256-CBC encryption for retrieval codes, bcrypt password hashing
+- Automatic cleanup via scheduled cron jobs
+- CloudFront CDN + S3 for global edge delivery
+- Progressive Web App — installable on any device
+- Upstash Redis-based rate limiting + Grafana/Loki/CloudWatch observability
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 📋 Kanflow - Collaborative Task Management
+`Next.js` `Django` `PostgreSQL` `RabbitMQ`
+
+A collaborative workspace platform with **JWT authentication**, role-based access control, workspace invitations, notifications, and task workflows.
+
+- Django REST APIs + PostgreSQL
+- Reusable Next.js frontend architecture for secure multi-user collaboration
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🔍 PageInsight - Conversational Web Intelligence
+`Node.js` `Express` `BullMQ` `Puppeteer` `pgvector`
+
+A **RAG platform** that scrapes webpages, generates vector embeddings, and performs semantic retrieval over indexed website content.
+
+- Asynchronous scraping pipelines: Puppeteer + BullMQ + Redis
+- Recursive chunking + pgvector similarity search with resilient fallback extraction
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛡️ Security Research
+
+Not a hacker - but I do love poking at systems and seeing what breaks. Sometimes something interesting turns up.
+
+<table width="100%">
+<thead>
+<tr>
+<th width="25%">Program</th>
+<th width="50%">Finding</th>
+<th width="25%">Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>HireVue</strong> (via HackerOne)</td>
+<td>Validated business-logic vulnerability</td>
+<td>🏆 HackerOne Bounty Awarded</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+## 🤝 Let's Connect
+
+Always open to a good conversation - whether it's about AI systems, agents, infra, or just a wild idea you've been sitting on. Don't have all the answers, but I'll research, think it through, and engage genuinely. If something clicks, let's talk.
+
+<br>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ritesh-yadav-2a5a03289" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:riteshy1802@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br>
+
+<h3 align="center"><em>"Not everything worth building needs an announcement."</em></h3>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,100:3D0000&height=120&section=footer" width="100%"/>
+</div>

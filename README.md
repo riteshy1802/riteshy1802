@@ -277,6 +277,11 @@ Not a hacker - but I do love poking at systems and seeing what breaks. Sometimes
 
 <br>
 
+## 🌱 Beyond Code
+
+- ♟️ **You can try** to beat me in chess 😄 — **Chess.com:** `riteshhhy`
+- 🇯🇵 Currently learning Japanese.
+
 ## 🤝 Let's Connect
 
 Always open to a good conversation - whether it's about AI systems, agents, infra, or just a wild idea you've been sitting on. Don't have all the answers, but I'll research, think it through, and engage genuinely. If something clicks, let's talk.
